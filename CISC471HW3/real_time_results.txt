@@ -1,0 +1,35 @@
+Launching unittests with arguments python -m unittest /CISC471HW3
+
+Greedy
+K: 15, T: 5, time_based_unit.TimeBasedConstantKUnitTests.test_gibbs_constant_k_1: Avg. Time: 25.245
+K: 15, T: 11, time_based_unit.TimeBasedConstantKUnitTests.test_gibbs_constant_k_2: Avg. Time: 26.597
+K: 15, T: 20, time_based_unit.TimeBasedConstantKUnitTests.test_gibbs_constant_k_3: Avg. Time: 28.926
+
+Random
+K: 15, T: 5, time_based_unit.TimeBasedConstantKUnitTests.test_greedy_constant_k_1: Avg. Time: 0.643
+K: 15, T: 11, time_based_unit.TimeBasedConstantKUnitTests.test_greedy_constant_k_2: Avg. Time: 1.602
+K: 15, T: 20, time_based_unit.TimeBasedConstantKUnitTests.test_greedy_constant_k_3: Avg. Time: 3.134
+
+Gibbs
+K: 15, T: 5, time_based_unit.TimeBasedConstantKUnitTests.test_random_constant_k_1: Avg. Time: 6.278
+K: 15, T: 11, time_based_unit.TimeBasedConstantKUnitTests.test_random_constant_k_2: Avg. Time: 18.101
+K: 15, T: 20, time_based_unit.TimeBasedConstantKUnitTests.test_random_constant_k_3: Avg. Time: 42.242
+
+Greedy
+K: 5, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_gibbs_constant_t_1: Avg. Time: 14.660
+K: 10, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_gibbs_constant_t_2: Avg. Time: 21.724
+K: 15, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_gibbs_constant_t_3: Avg. Time: 28.519
+
+Random
+K: 5, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_greedy_constant_t_1: Avg. Time: 1.573
+K: 10, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_greedy_constant_t_2: Avg. Time: 2.375
+K: 15, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_greedy_constant_t_3: Avg. Time: 3.194
+
+Gibbs
+K: 5, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_random_constant_t_1: Avg. Time: 16.576
+K: 10, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_random_constant_t_2: Avg. Time: 32.312
+K: 15, T: 20, time_based_unit.TimeBasedConstantTUnitTests.test_random_constant_t_3: Avg. Time: 42.007
+
+Ran 18 tests in 947.141s
+
+OK
