@@ -10,10 +10,9 @@ The project contains the following files:
 
 ```
 .
-├── manhattan_tourist_tests.py      # Directories that contain the implementation of
-├── parsers.py                      # Contains functions to parse file input data
-├── roslaind_ba5b_x.txt             # Contain sample data sets from Rosalind for the unittests
-└── README.md                       # This file, contians information about the program
+├── CISC471{1,2,3,4,5,6}.py  # Directories that contain the implementation of the homeworks
+├── LICENSE.py               # Contains the licence for the repo
+└── README.md                # This file, contians information about the repo
 ```
 
 ## Running the programs
