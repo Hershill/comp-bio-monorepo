@@ -22,8 +22,6 @@ The following commands can be used to run the programming homework from within i
 - `python -m main main.py`
 - `python {algorithm}.py`
 
-## 1 - The Manhattan Tourist Problem + Unit Tests
-
 The solutions for the programming homeworks are contained in the corresponding homeworks subdirectory and can be run from `main.py` or 
 `{algorithm}.py` depending on whether you would like to run the individual functions or the unit tests. See below for more detail.
 
